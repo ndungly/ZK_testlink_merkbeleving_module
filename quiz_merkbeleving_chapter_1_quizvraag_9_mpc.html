@@ -7,7 +7,7 @@
 <head>
 <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=1"/><!-- must be the first element in head -->
 <meta charset="UTF-8" />
-<TITLE>Feedback #4</TITLE>
+<TITLE>Quizvraag #9: MPC</TITLE>
 
 <style>
     
@@ -212,10 +212,13 @@ roze #C93A83
 <script>
 
 // <!-- 
-if(findOPAWindow()==n && !isNewWinPopup()) location.href = "index.html?jmptopg=quiz_merkbeleving_chapter_1_feedback_4.html";
+if(findOPAWindow()==n && !isNewWinPopup()) location.href = "index.html?jmptopg=quiz_merkbeleving_chapter_1_quizvraag_9_mpc.html";
 if( !is.min )
     document.write( "Your browser does not support dynamic html. Please download a current version of either <a href='http://www.microsoft.com/ie/'>Microsoft Internet Explorer or Edge</a> or <a href='http://www.apple.com/safari/download/'>Safari</a> or <a href='http://www.mozilla.com/firefox/'>Mozilla Firefox</a> and try visiting our site again. Thank You.<br /><br />" )
 
+
+var Varquiz_score = new Variable( 'Varquiz_score', '100', 0, 0, null, null, 'quiz_merkbeleving.html', f );
+var Varinzet = new Variable( 'Varinzet', '10', 0, 0, null, null, 'quiz_merkbeleving.html', f );
 var VarTriMuteAllFLV = new Variable( 'VarTriMuteAllFLV', '', 0, 0, null, null, 'quiz_merkbeleving.html'  );
 var bRcdTitle = false;
 var pgWidth_phonePort = 480;
@@ -253,17 +256,26 @@ function init_page()
 		og29538.cwObj={};
 		og29538.cwObj.arChld=[
     ];
+		Varinzet.set('10');
+if(Varquiz_score.lessThan('20')){
+textbutton29603.setState('disabled');
+}
+else if(typeof pF == 'function') pF();
+if(Varquiz_score.lessThan('30')){
+textbutton29612.setState('disabled');
+}
+else if(typeof pF == 'function') pF();
 		trivPage.issueShowActions(arWnds);
 		trivArExec(arWnds,function(wnd){ wnd.issueActions(11); });
 		trivPage.actionMute();
 	}
 }
 function trivPrevPage() {
-    trivExitPage( 'quiz_merkbeleving_chapter_1_fout_4.html', true )
+    trivExitPage( 'quiz_merkbeleving_chapter_1_feedback_8.html', true )
 }
 
 function trivNextPage() {
-    trivExitPage( 'quiz_merkbeleving_chapter_1_quizvraag_5_stelling.html', true )
+    trivExitPage( 'quiz_merkbeleving_chapter_1_goed_9.html', true )
 }
 
 
@@ -271,19 +283,32 @@ if( is.min ) {
 	var rcdObj = { rcdData: {} };
 
 	var og29538 = new jsWndOther(); //Script
-	var image28370 = new jsWndImage(); //Achtergrond quiz_Feedback1
-	var text28371 = new jsWndText(); //Feedback text
-	var textbutton28376 = new jsWndTextButton(); //Button
+	var image29578 = new jsWndImage(); //Achtergrond quiz_leeg
+	var image29579 = new jsWndImage(); //Score_bg
+	var text29580 = new jsWndText(); //Subtitle quiz score
+	var text29581 = new jsWndText(); //Quiz score
+	var text29582 = new jsWndText(); //Vraag 1 van 10
+	var text29583 = new jsWndText(); //Question
+	var text29584 = new jsWndText(); //Jouw inzet
+	var textbutton29585 = new jsWndTextButton(); //MPC1
+	var textbutton29588 = new jsWndTextButton(); //MPC2
+	var textbutton29591 = new jsWndTextButton(); //MPC3
+	var textbutton29594 = new jsWndTextButton(); //Inzet 10
+	var image29602 = new jsWndImage(); //Inzet_10_selected
+	var textbutton29603 = new jsWndTextButton(); //Inzet 20
+	var image29611 = new jsWndImage(); //Inzet_20_selected
+	var textbutton29612 = new jsWndTextButton(); //Inzet 30
+	var image29620 = new jsWndImage(); //Inzet_30_selected
 	og29538.type=14;
 	var alertCtr = 0;
-	var trivPageId=28368; //trivPage.id
-	var arWnds = [image28370,text28371,textbutton28376];
-	var arAttachObj = [og29538,image28370,text28371,textbutton28376];
+	var trivPageId=29574; //trivPage.id
+	var arWnds = [image29578,image29579,text29580,text29581,text29582,text29583,text29584,image29602,image29611,image29620,textbutton29585,textbutton29588,textbutton29591,textbutton29594,textbutton29603,textbutton29612];
+	var arAttachObj = [og29538,image29578,image29579,text29580,text29581,text29582,text29583,text29584,textbutton29585,textbutton29588,textbutton29591,textbutton29594,image29602,textbutton29603,image29611,textbutton29612,image29620];
 	var arPooledMedia = [];
 }
 
 
-loadIncFiles('quiz_merkbeleving_chapter_1_feedback_4', false);
+loadIncFiles('quiz_merkbeleving_chapter_1_quizvraag_9_mpc', false);
 
 // -->
 </script>

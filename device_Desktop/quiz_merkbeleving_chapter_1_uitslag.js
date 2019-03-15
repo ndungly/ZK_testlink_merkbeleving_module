@@ -16,10 +16,19 @@ function defineFuncs_Desktop() {
 	pageRClick = n;
 	pageKey = n;
 }
+og29538.rcdData.att_Desktop = 
+{
+	innerHtml:	"",
+	cssText:	"",
+	cssClasses:	"",
+	htmlId:		"og29538",
+	bInsAnc:	undefined,
+	objData:	{"a":[0,32,0,[]],"bReadLast":false}
+};
 image29184.rcdData.att_Desktop = 
 {
 	innerHtml:	"<img id=\"tobj29184Img\" src=\"images/Achtergrond%20quiz_leeg.jpg\" style=\"position: absolute; border-style: none; left: 0px; top: 0px; width: 1366px; height: 768px;\">",
-	cssText:	"visibility: inherit; position: absolute; left: 0px; top: 0px; width: 1366px; height: 768px; z-index: 0;",
+	cssText:	"visibility: inherit; position: absolute; left: 0px; top: 0px; width: 1366px; height: 768px; z-index: 2;",
 	cssClasses:	"",
 	htmlId:		"tobj29184",
 	bInsAnc:	0,
@@ -30,8 +39,8 @@ image29184.rcdData.att_Desktop =
 };
 textbutton29236.rcdData.att_Desktop = 
 {
-	innerHtml:	"<svg viewBox=\"0 0 186 57\" preserveAspectRatio=\"none\" focusable=\"false\" style=\"pointer-events: none; left: 0px; top: 0px; width: 100%; height: 100%; position: absolute;\" aria-hidden=\"true\"><g transform=\"translate(93 28.5)\" style=\"\">\n	<path d=\"M 0 0 L 186 0 L 186 57 L 0 57 L 0 0 Z\" style=\"stroke: rgb(9, 99, 177); stroke-width: 0; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; fill: rgb(255, 255, 255); fill-opacity:0;filter:alpha(opacity=0); fill-rule: nonzero; opacity:1;filter:alpha(opacity=100); pointer-events: auto;\" transform=\"translate(0 0) translate(-93, -28.5) \" stroke-linecap=\"round\"></path>\n	<pattern id=\"SVGID_29183_7009\" x=\"0\" y=\"0\" width=\"1\" height=\"1\">\n<image x=\"0\" y=\"0\" width=\"186\" height=\"57\" xlink:href=\"images/Button_sluit%20quiz.png\" preserveAspectRatio=\"none\"></image>\n</pattern>\n<path d=\"M 0 0 L 186 0 L 186 57 L 0 57 L 0 0\" style=\"stroke: rgb(9, 99, 177); stroke-width: 0; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; fill: url(&quot;#SVGID_29183_7009&quot;); fill-rule: nonzero; opacity:1;filter:alpha(opacity=100); pointer-events: auto;\" transform=\"translate(0 0) translate(-93, -28.5) \" stroke-linecap=\"round\"></path>\n</g>\n	<g transform=\"translate(93 28.5)\">\n		<text font-family=\"Arial,sans-serif\" font-size=\"15.9999996\" font-weight=\"normal\" style=\"stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(255,255,255); fill-rule: nonzero; opacity:1;filter:alpha(opacity=100);\">\n			<tspan x=\"0\" y=\"5.04\" fill=\"#FFFFFF\"></tspan>\n		</text>\n	</g>\n</svg>",
-	cssText:	"visibility: inherit; position: absolute; left: 591px; top: 651px; width: 186px; height: 57px; z-index: 40; cursor: pointer; overflow: visible; pointer-events: none;",
+	innerHtml:	"<svg viewBox=\"0 0 186 57\" preserveAspectRatio=\"none\" focusable=\"false\" style=\"pointer-events: none; left: 0px; top: 0px; width: 100%; height: 100%; position: absolute;\" aria-hidden=\"true\"><g transform=\"translate(93 28.5)\" style=\"\">\n	<path d=\"M 0 0 L 186 0 L 186 57 L 0 57 L 0 0 Z\" style=\"stroke: rgb(9, 99, 177); stroke-width: 0; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; fill: rgb(255, 255, 255); fill-opacity:0;filter:alpha(opacity=0); fill-rule: nonzero; opacity:1;filter:alpha(opacity=100); pointer-events: auto;\" transform=\"translate(0 0) translate(-93, -28.5) \" stroke-linecap=\"round\"></path>\n	<pattern id=\"SVGID_29183_715\" x=\"0\" y=\"0\" width=\"1\" height=\"1\">\n<image x=\"0\" y=\"0\" width=\"186\" height=\"57\" xlink:href=\"images/Button_sluit%20quiz.png\" preserveAspectRatio=\"none\"></image>\n</pattern>\n<path d=\"M 0 0 L 186 0 L 186 57 L 0 57 L 0 0\" style=\"stroke: rgb(9, 99, 177); stroke-width: 0; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; fill: url(&quot;#SVGID_29183_715&quot;); fill-rule: nonzero; opacity:1;filter:alpha(opacity=100); pointer-events: auto;\" transform=\"translate(0 0) translate(-93, -28.5) \" stroke-linecap=\"round\"></path>\n</g>\n	<g transform=\"translate(93 28.5)\">\n		<text font-family=\"Arial,sans-serif\" font-size=\"15.9999996\" font-weight=\"normal\" style=\"stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(255,255,255); fill-rule: nonzero; opacity:1;filter:alpha(opacity=100);\">\n			<tspan x=\"0\" y=\"5.04\" fill=\"#FFFFFF\"></tspan>\n		</text>\n	</g>\n</svg>",
+	cssText:	"visibility: inherit; position: absolute; left: 591px; top: 651px; width: 186px; height: 57px; z-index: 42; cursor: pointer; overflow: visible; pointer-events: none;",
 	cssClasses:	"",
 	htmlId:		"tobj29236",
 	bInsAnc:	1,
@@ -43,7 +52,7 @@ textbutton29236.rcdData.att_Desktop =
     if(typeof pF == 'function') pF(); }}
 	]
 	},
-	objData:	{"a":[4,33120,0,[591,651,186,57]],"borderEffect":{"outline":0,"outlineColor":"#000000","borderWeight":0,"lineStyle":0,"borderColor":"#000000"},"rotateEffect":{"angle":0,"anchorX":50,"anchorY":50},"desktopRect":{"x":591,"y":651,"width":186,"height":57},"imgDataNormal":"images/desktop_shape29236.png","imgDataOver":"images/desktop_shape29236_over.png","imgDataDown":"images/desktop_shape29236.png","imgDataDisabled":"images/desktop_shape29236_disabled.png","svgDataNormal":"<g transform=\"translate(93 28.5)\" style=\"\">\n\t<path d=\"M 0 0 L 186 0 L 186 57 L 0 57 L 0 0 Z\" style=\"stroke: rgb(9, 99, 177); stroke-width: 0; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; fill: rgb(255, 255, 255); fill-opacity: 0; fill-rule: nonzero; opacity: 1; pointer-events: auto;\" transform=\"translate(0 0) translate(-93, -28.5) \" stroke-linecap=\"round\"></path>\n\t<pattern id=\"SVGID_29183_7009\" x=\"0\" y=\"0\" width=\"1\" height=\"1\">\n<image x=\"0\" y=\"0\" width=\"186\" height=\"57\" xlink:href=\"images/Button_sluit%20quiz.png\" preserveAspectRatio=\"none\"></image>\n</pattern>\n<path d=\"M 0 0 L 186 0 L 186 57 L 0 57 L 0 0\" style=\"stroke: rgb(9, 99, 177); stroke-width: 0; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; fill: url(&quot;#SVGID_29183_7009&quot;); fill-rule: nonzero; opacity: 1; pointer-events: auto;\" transform=\"translate(0 0) translate(-93, -28.5) \" stroke-linecap=\"round\"></path>\n</g>\n\t<g transform=\"translate(93 28.5)\">\n\t\t<text font-family=\"Arial,sans-serif\" font-size=\"15.9999996\" font-weight=\"normal\" style=\"stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;\">\n\t\t\t<tspan x=\"0\" y=\"5.04\" fill=\"#FFFFFF\"></tspan>\n\t\t</text>\n\t</g>\n","svgDataOver":"<g transform=\"translate(93 28.5)\" style=\"\">\n\t<path d=\"M 0 0 L 186 0 L 186 57 L 0 57 L 0 0 Z\" style=\"stroke: rgb(9, 99, 177); stroke-width: 0; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; fill: rgb(255, 255, 255); fill-opacity: 0; fill-rule: nonzero; opacity: 1; pointer-events: auto;\" transform=\"translate(0 0) translate(-93, -28.5) \" stroke-linecap=\"round\"></path>\n\t<pattern id=\"SVGID_29183_7011\" x=\"0\" y=\"0\" width=\"1\" height=\"1\">\n<image x=\"0\" y=\"0\" width=\"186\" height=\"57\" xlink:href=\"images/Button_sluit%20quiz_hover.png\" preserveAspectRatio=\"none\"></image>\n</pattern>\n<path d=\"M 0 0 L 186 0 L 186 57 L 0 57 L 0 0\" style=\"stroke: rgb(9, 99, 177); stroke-width: 0; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; fill: url(&quot;#SVGID_29183_7011&quot;); fill-rule: nonzero; opacity: 1; pointer-events: auto;\" transform=\"translate(0 0) translate(-93, -28.5) \" stroke-linecap=\"round\"></path>\n</g>\n\t<g transform=\"translate(93 28.5)\">\n\t\t<text font-family=\"Arial,sans-serif\" font-size=\"15.9999996\" font-weight=\"normal\" style=\"stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;\">\n\t\t\t<tspan x=\"0\" y=\"5.04\" fill=\"#FFFFFF\"></tspan>\n\t\t</text>\n\t</g>\n","svgDataDown":"<g transform=\"translate(93 28.5)\" style=\"\">\n\t<path d=\"M 0 0 L 186 0 L 186 57 L 0 57 L 0 0 Z\" style=\"stroke: rgb(9, 99, 177); stroke-width: 0; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; fill: rgb(255, 255, 255); fill-opacity: 0; fill-rule: nonzero; opacity: 1; pointer-events: auto;\" transform=\"translate(0 0) translate(-93, -28.5) \" stroke-linecap=\"round\"></path>\n\t<pattern id=\"SVGID_29183_7013\" x=\"0\" y=\"0\" width=\"1\" height=\"1\">\n<image x=\"0\" y=\"0\" width=\"186\" height=\"57\" xlink:href=\"images/Button_sluit%20quiz.png\" preserveAspectRatio=\"none\"></image>\n</pattern>\n<path d=\"M 0 0 L 186 0 L 186 57 L 0 57 L 0 0\" style=\"stroke: rgb(9, 99, 177); stroke-width: 0; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; fill: url(&quot;#SVGID_29183_7013&quot;); fill-rule: nonzero; opacity: 1; pointer-events: auto;\" transform=\"translate(0 0) translate(-93, -28.5) \" stroke-linecap=\"round\"></path>\n</g>\n\t<g transform=\"translate(93 28.5)\">\n\t\t<text font-family=\"Arial,sans-serif\" font-size=\"15.9999996\" font-weight=\"normal\" style=\"stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;\">\n\t\t\t<tspan x=\"0\" y=\"5.04\" fill=\"#FFFFFF\"></tspan>\n\t\t</text>\n\t</g>\n","svgDataDisabled":"<g transform=\"translate(93 28.5)\" style=\"\">\n\t<path d=\"M 0 0 L 186 0 L 186 57 L 0 57 L 0 0 Z\" style=\"stroke: rgb(9, 99, 177); stroke-width: 0; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; fill: rgb(255, 255, 255); fill-opacity: 0; fill-rule: nonzero; opacity: 0.6; pointer-events: auto;\" transform=\"translate(0 0) translate(-93, -28.5) \" stroke-linecap=\"round\"></path>\n\t<pattern id=\"SVGID_29183_7015\" x=\"0\" y=\"0\" width=\"1\" height=\"1\">\n<image x=\"0\" y=\"0\" width=\"186\" height=\"57\" xlink:href=\"images/Button_sluit%20quiz.png\" preserveAspectRatio=\"none\"></image>\n</pattern>\n<path d=\"M 0 0 L 186 0 L 186 57 L 0 57 L 0 0\" style=\"stroke: rgb(9, 99, 177); stroke-width: 0; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; fill: url(&quot;#SVGID_29183_7015&quot;); fill-rule: nonzero; opacity: 0.6; pointer-events: auto;\" transform=\"translate(0 0) translate(-93, -28.5) \" stroke-linecap=\"round\"></path>\n</g>\n\t<g transform=\"translate(93 28.5)\">\n\t\t<text font-family=\"Arial,sans-serif\" font-size=\"15.9999996\" font-weight=\"normal\" style=\"stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 0.6;\">\n\t\t\t<tspan x=\"0\" y=\"5.04\" fill=\"#FFFFFF\"></tspan>\n\t\t</text>\n\t</g>\n","btnState":"enabled","fallbackImg":"<img alt=\"\" title=\"\" style=\"position: absolute; width: 100%; height: 100%; top: 0px; left: 0px;\">"}
+	objData:	{"a":[4,33120,0,[591,651,186,57]],"borderEffect":{"outline":0,"outlineColor":"#000000","borderWeight":0,"lineStyle":0,"borderColor":"#000000"},"rotateEffect":{"angle":0,"anchorX":50,"anchorY":50},"desktopRect":{"x":591,"y":651,"width":186,"height":57},"imgDataNormal":"images/desktop_shape29236.png","imgDataOver":"images/desktop_shape29236_over.png","imgDataDown":"images/desktop_shape29236.png","imgDataDisabled":"images/desktop_shape29236_disabled.png","svgDataNormal":"<g transform=\"translate(93 28.5)\" style=\"\">\n\t<path d=\"M 0 0 L 186 0 L 186 57 L 0 57 L 0 0 Z\" style=\"stroke: rgb(9, 99, 177); stroke-width: 0; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; fill: rgb(255, 255, 255); fill-opacity: 0; fill-rule: nonzero; opacity: 1; pointer-events: auto;\" transform=\"translate(0 0) translate(-93, -28.5) \" stroke-linecap=\"round\"></path>\n\t<pattern id=\"SVGID_29183_715\" x=\"0\" y=\"0\" width=\"1\" height=\"1\">\n<image x=\"0\" y=\"0\" width=\"186\" height=\"57\" xlink:href=\"images/Button_sluit%20quiz.png\" preserveAspectRatio=\"none\"></image>\n</pattern>\n<path d=\"M 0 0 L 186 0 L 186 57 L 0 57 L 0 0\" style=\"stroke: rgb(9, 99, 177); stroke-width: 0; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; fill: url(&quot;#SVGID_29183_715&quot;); fill-rule: nonzero; opacity: 1; pointer-events: auto;\" transform=\"translate(0 0) translate(-93, -28.5) \" stroke-linecap=\"round\"></path>\n</g>\n\t<g transform=\"translate(93 28.5)\">\n\t\t<text font-family=\"Arial,sans-serif\" font-size=\"15.9999996\" font-weight=\"normal\" style=\"stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;\">\n\t\t\t<tspan x=\"0\" y=\"5.04\" fill=\"#FFFFFF\"></tspan>\n\t\t</text>\n\t</g>\n","svgDataOver":"<g transform=\"translate(93 28.5)\" style=\"\">\n\t<path d=\"M 0 0 L 186 0 L 186 57 L 0 57 L 0 0 Z\" style=\"stroke: rgb(9, 99, 177); stroke-width: 0; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; fill: rgb(255, 255, 255); fill-opacity: 0; fill-rule: nonzero; opacity: 1; pointer-events: auto;\" transform=\"translate(0 0) translate(-93, -28.5) \" stroke-linecap=\"round\"></path>\n\t<pattern id=\"SVGID_29183_717\" x=\"0\" y=\"0\" width=\"1\" height=\"1\">\n<image x=\"0\" y=\"0\" width=\"186\" height=\"57\" xlink:href=\"images/Button_sluit%20quiz_hover.png\" preserveAspectRatio=\"none\"></image>\n</pattern>\n<path d=\"M 0 0 L 186 0 L 186 57 L 0 57 L 0 0\" style=\"stroke: rgb(9, 99, 177); stroke-width: 0; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; fill: url(&quot;#SVGID_29183_717&quot;); fill-rule: nonzero; opacity: 1; pointer-events: auto;\" transform=\"translate(0 0) translate(-93, -28.5) \" stroke-linecap=\"round\"></path>\n</g>\n\t<g transform=\"translate(93 28.5)\">\n\t\t<text font-family=\"Arial,sans-serif\" font-size=\"15.9999996\" font-weight=\"normal\" style=\"stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;\">\n\t\t\t<tspan x=\"0\" y=\"5.04\" fill=\"#FFFFFF\"></tspan>\n\t\t</text>\n\t</g>\n","svgDataDown":"<g transform=\"translate(93 28.5)\" style=\"\">\n\t<path d=\"M 0 0 L 186 0 L 186 57 L 0 57 L 0 0 Z\" style=\"stroke: rgb(9, 99, 177); stroke-width: 0; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; fill: rgb(255, 255, 255); fill-opacity: 0; fill-rule: nonzero; opacity: 1; pointer-events: auto;\" transform=\"translate(0 0) translate(-93, -28.5) \" stroke-linecap=\"round\"></path>\n\t<pattern id=\"SVGID_29183_719\" x=\"0\" y=\"0\" width=\"1\" height=\"1\">\n<image x=\"0\" y=\"0\" width=\"186\" height=\"57\" xlink:href=\"images/Button_sluit%20quiz.png\" preserveAspectRatio=\"none\"></image>\n</pattern>\n<path d=\"M 0 0 L 186 0 L 186 57 L 0 57 L 0 0\" style=\"stroke: rgb(9, 99, 177); stroke-width: 0; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; fill: url(&quot;#SVGID_29183_719&quot;); fill-rule: nonzero; opacity: 1; pointer-events: auto;\" transform=\"translate(0 0) translate(-93, -28.5) \" stroke-linecap=\"round\"></path>\n</g>\n\t<g transform=\"translate(93 28.5)\">\n\t\t<text font-family=\"Arial,sans-serif\" font-size=\"15.9999996\" font-weight=\"normal\" style=\"stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;\">\n\t\t\t<tspan x=\"0\" y=\"5.04\" fill=\"#FFFFFF\"></tspan>\n\t\t</text>\n\t</g>\n","svgDataDisabled":"<g transform=\"translate(93 28.5)\" style=\"\">\n\t<path d=\"M 0 0 L 186 0 L 186 57 L 0 57 L 0 0 Z\" style=\"stroke: rgb(9, 99, 177); stroke-width: 0; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; fill: rgb(255, 255, 255); fill-opacity: 0; fill-rule: nonzero; opacity: 0.6; pointer-events: auto;\" transform=\"translate(0 0) translate(-93, -28.5) \" stroke-linecap=\"round\"></path>\n\t<pattern id=\"SVGID_29183_721\" x=\"0\" y=\"0\" width=\"1\" height=\"1\">\n<image x=\"0\" y=\"0\" width=\"186\" height=\"57\" xlink:href=\"images/Button_sluit%20quiz.png\" preserveAspectRatio=\"none\"></image>\n</pattern>\n<path d=\"M 0 0 L 186 0 L 186 57 L 0 57 L 0 0\" style=\"stroke: rgb(9, 99, 177); stroke-width: 0; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; fill: url(&quot;#SVGID_29183_721&quot;); fill-rule: nonzero; opacity: 0.6; pointer-events: auto;\" transform=\"translate(0 0) translate(-93, -28.5) \" stroke-linecap=\"round\"></path>\n</g>\n\t<g transform=\"translate(93 28.5)\">\n\t\t<text font-family=\"Arial,sans-serif\" font-size=\"15.9999996\" font-weight=\"normal\" style=\"stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 0.6;\">\n\t\t\t<tspan x=\"0\" y=\"5.04\" fill=\"#FFFFFF\"></tspan>\n\t\t</text>\n\t</g>\n","btnState":"enabled","fallbackImg":"<img alt=\"\" title=\"\" style=\"position: absolute; width: 100%; height: 100%; top: 0px; left: 0px;\">"}
 };
 og29233.rcdData.att_Desktop = 
 {
@@ -57,7 +66,7 @@ og29233.rcdData.att_Desktop =
 image29200.rcdData.att_Desktop = 
 {
 	innerHtml:	"<img id=\"tobj29200Img\" src=\"images/Resultaten_bg.png\" style=\"position: absolute; border-style: none; left: 0px; top: 0px; width: 280px; height: 305px;\">",
-	cssText:	"visibility: inherit; position: absolute; left: 268px; top: 336px; width: 280px; height: 305px; z-index: 1;",
+	cssText:	"visibility: inherit; position: absolute; left: 268px; top: 336px; width: 280px; height: 305px; z-index: 3;",
 	cssClasses:	"",
 	htmlId:		"tobj29200",
 	bInsAnc:	0,
@@ -69,7 +78,7 @@ image29200.rcdData.att_Desktop =
 text29209.rcdData.att_Desktop = 
 {
 	innerHtml:	"<div name=\"dCon\" style=\"position: absolute; left: 0px; top: 0px; width: 198px; min-height: 65px;\"><div name=\"dCon2\" class=\"ttxt\" style=\"left: 0px; top: 0px; width: 198px; min-height: 65px;\"><p align=\"center\" style=\"margin-left:0px;text-indent:0px;margin-top:0px;margin-bottom:0px;\"><strong><span style=\"font-size:30pt; color: rgb(0, 40, 87); font-family: &quot;PT Sans&quot;, sans-serif;\">0-99</span></strong></p></div></div>",
-	cssText:	"visibility: inherit; position: absolute; left: 308px; top: 445px; width: 198px; height: 65px; z-index: 2;",
+	cssText:	"visibility: inherit; position: absolute; left: 308px; top: 445px; width: 198px; height: 65px; z-index: 4;",
 	cssClasses:	"score",
 	htmlId:		"tobj29209",
 	bInsAnc:	0,
@@ -81,7 +90,7 @@ text29209.rcdData.att_Desktop =
 text29221.rcdData.att_Desktop = 
 {
 	innerHtml:	"<div name=\"dCon\" style=\"position: absolute; left: 0px; top: 0px; width: 198px; min-height: 65px;\"><div name=\"dCon2\" class=\"ttxt\" style=\"left: 0px; top: 0px; width: 198px; min-height: 65px;\"><p align=\"center\" style=\"margin-left:0px;text-indent:0px;margin-top:0px;margin-bottom:0px;\"><span style=\"font-size:24pt; color: rgb(0, 40, 87); font-family: &quot;PT Sans&quot;, sans-serif;\">punten</span></p></div></div>",
-	cssText:	"visibility: inherit; position: absolute; left: 308px; top: 489px; width: 198px; height: 65px; z-index: 3;",
+	cssText:	"visibility: inherit; position: absolute; left: 308px; top: 489px; width: 198px; height: 65px; z-index: 5;",
 	cssClasses:	"score",
 	htmlId:		"tobj29221",
 	bInsAnc:	0,
@@ -93,7 +102,7 @@ text29221.rcdData.att_Desktop =
 shape29241.rcdData.att_Desktop = 
 {
 	innerHtml:	"<svg viewBox=\"0 0 212 212\" preserveAspectRatio=\"none\" focusable=\"false\" style=\"pointer-events: none; left: 0px; top: 0px; width: 100%; height: 100%; position: absolute;\"><g transform=\"translate(106 106)\" style=\"\">\n	<path d=\"M 0 106 A 106 106 0 1 1 212 106 A 106 106 0 1 1 0 106 Z\" style=\"stroke: rgb(238, 238, 238); stroke-width: 0; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; fill: rgb(255, 255, 255); fill-opacity:0;filter:alpha(opacity=0); fill-rule: nonzero; opacity:1;filter:alpha(opacity=100); pointer-events: auto;\" transform=\"translate(0 0) translate(-106, -105.99999999999999) \" stroke-linecap=\"round\"></path>\n</g>\n	<g transform=\"translate(106 106)\">\n		<text font-family=\"\'Verdana\',sans serif\" font-size=\"18.6666662\" font-weight=\"bold\" style=\"stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(102,102,102); fill-rule: nonzero; opacity:1;filter:alpha(opacity=100);\">\n			<tspan x=\"0\" y=\"5.88\" fill=\"#666666\"></tspan>\n		</text>\n	</g>\n</svg>",
-	cssText:	"visibility: inherit; position: absolute; left: 302px; top: 380px; width: 212px; height: 212px; z-index: 4; cursor: pointer; overflow: visible; pointer-events: none;",
+	cssText:	"visibility: inherit; position: absolute; left: 302px; top: 380px; width: 212px; height: 212px; z-index: 6; cursor: pointer; overflow: visible; pointer-events: none;",
 	cssClasses:	"",
 	htmlId:		"tobj29241",
 	bInsAnc:	1,
@@ -129,7 +138,7 @@ og29234.rcdData.att_Desktop =
 image29201.rcdData.att_Desktop = 
 {
 	innerHtml:	"<img id=\"tobj29201Img\" src=\"images/Resultaten_bg.png\" style=\"position: absolute; border-style: none; left: 0px; top: 0px; width: 280px; height: 305px;\">",
-	cssText:	"visibility: inherit; position: absolute; left: 543px; top: 336px; width: 280px; height: 305px; z-index: 5;",
+	cssText:	"visibility: inherit; position: absolute; left: 543px; top: 336px; width: 280px; height: 305px; z-index: 7;",
 	cssClasses:	"",
 	htmlId:		"tobj29201",
 	bInsAnc:	0,
@@ -141,7 +150,7 @@ image29201.rcdData.att_Desktop =
 text29213.rcdData.att_Desktop = 
 {
 	innerHtml:	"<div name=\"dCon\" style=\"position: absolute; left: 0px; top: 0px; width: 198px; min-height: 65px;\"><div name=\"dCon2\" class=\"ttxt\" style=\"left: 0px; top: 0px; width: 198px; min-height: 65px;\"><p align=\"center\" style=\"margin-left:0px;text-indent:0px;margin-top:0px;margin-bottom:0px;\"><strong><span style=\"font-size:30pt; color: rgb(0, 40, 87); font-family: &quot;PT Sans&quot;, sans-serif;\">100-199</span></strong></p></div></div>",
-	cssText:	"visibility: inherit; position: absolute; left: 584px; top: 445px; width: 198px; height: 65px; z-index: 6;",
+	cssText:	"visibility: inherit; position: absolute; left: 584px; top: 445px; width: 198px; height: 65px; z-index: 8;",
 	cssClasses:	"score",
 	htmlId:		"tobj29213",
 	bInsAnc:	0,
@@ -153,7 +162,7 @@ text29213.rcdData.att_Desktop =
 text29225.rcdData.att_Desktop = 
 {
 	innerHtml:	"<div name=\"dCon\" style=\"position: absolute; left: 0px; top: 0px; width: 198px; min-height: 65px;\"><div name=\"dCon2\" class=\"ttxt\" style=\"left: 0px; top: 0px; width: 198px; min-height: 65px;\"><p align=\"center\" style=\"margin-left:0px;text-indent:0px;margin-top:0px;margin-bottom:0px;\"><span style=\"font-size:24pt; color: rgb(0, 40, 87); font-family: &quot;PT Sans&quot;, sans-serif;\">punten</span></p></div></div>",
-	cssText:	"visibility: inherit; position: absolute; left: 584px; top: 489px; width: 198px; height: 65px; z-index: 7;",
+	cssText:	"visibility: inherit; position: absolute; left: 584px; top: 489px; width: 198px; height: 65px; z-index: 9;",
 	cssClasses:	"score",
 	htmlId:		"tobj29225",
 	bInsAnc:	0,
@@ -165,7 +174,7 @@ text29225.rcdData.att_Desktop =
 shape29314.rcdData.att_Desktop = 
 {
 	innerHtml:	"<svg viewBox=\"0 0 212 212\" preserveAspectRatio=\"none\" focusable=\"false\" style=\"pointer-events: none; left: 0px; top: 0px; width: 100%; height: 100%; position: absolute;\"><g transform=\"translate(106 106)\" style=\"\">\n	<path d=\"M 0 106 A 106 106 0 1 1 212 106 A 106 106 0 1 1 0 106 Z\" style=\"stroke: rgb(238, 238, 238); stroke-width: 0; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; fill: rgb(255, 255, 255); fill-opacity:0;filter:alpha(opacity=0); fill-rule: nonzero; opacity:1;filter:alpha(opacity=100); pointer-events: auto;\" transform=\"translate(0 0) translate(-106, -105.99999999999999) \" stroke-linecap=\"round\"></path>\n</g>\n	<g transform=\"translate(106 106)\">\n		<text font-family=\"\'Verdana\',sans serif\" font-size=\"18.6666662\" font-weight=\"bold\" style=\"stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(102,102,102); fill-rule: nonzero; opacity:1;filter:alpha(opacity=100);\">\n			<tspan x=\"0\" y=\"5.88\" fill=\"#666666\"></tspan>\n		</text>\n	</g>\n</svg>",
-	cssText:	"visibility: inherit; position: absolute; left: 575px; top: 380px; width: 212px; height: 212px; z-index: 8; cursor: pointer; overflow: visible; pointer-events: none;",
+	cssText:	"visibility: inherit; position: absolute; left: 575px; top: 380px; width: 212px; height: 212px; z-index: 10; cursor: pointer; overflow: visible; pointer-events: none;",
 	cssClasses:	"",
 	htmlId:		"tobj29314",
 	bInsAnc:	1,
@@ -201,7 +210,7 @@ og29235.rcdData.att_Desktop =
 image29205.rcdData.att_Desktop = 
 {
 	innerHtml:	"<img id=\"tobj29205Img\" src=\"images/Resultaten_bg.png\" style=\"position: absolute; border-style: none; left: 0px; top: 0px; width: 280px; height: 305px;\">",
-	cssText:	"visibility: inherit; position: absolute; left: 817px; top: 336px; width: 280px; height: 305px; z-index: 9;",
+	cssText:	"visibility: inherit; position: absolute; left: 817px; top: 336px; width: 280px; height: 305px; z-index: 11;",
 	cssClasses:	"",
 	htmlId:		"tobj29205",
 	bInsAnc:	0,
@@ -213,7 +222,7 @@ image29205.rcdData.att_Desktop =
 text29217.rcdData.att_Desktop = 
 {
 	innerHtml:	"<div name=\"dCon\" style=\"position: absolute; left: 0px; top: 0px; width: 198px; min-height: 65px;\"><div name=\"dCon2\" class=\"ttxt\" style=\"left: 0px; top: 0px; width: 198px; min-height: 65px;\"><p align=\"center\" style=\"margin-left:0px;text-indent:0px;margin-top:0px;margin-bottom:0px;\"><strong><span style=\"font-size:30pt; color: rgb(0, 40, 87); font-family: &quot;PT Sans&quot;, sans-serif;\">200+</span></strong></p></div></div>",
-	cssText:	"visibility: inherit; position: absolute; left: 857px; top: 445px; width: 198px; height: 65px; z-index: 10;",
+	cssText:	"visibility: inherit; position: absolute; left: 857px; top: 445px; width: 198px; height: 65px; z-index: 12;",
 	cssClasses:	"score",
 	htmlId:		"tobj29217",
 	bInsAnc:	0,
@@ -225,7 +234,7 @@ text29217.rcdData.att_Desktop =
 text29229.rcdData.att_Desktop = 
 {
 	innerHtml:	"<div name=\"dCon\" style=\"position: absolute; left: 0px; top: 0px; width: 198px; min-height: 65px;\"><div name=\"dCon2\" class=\"ttxt\" style=\"left: 0px; top: 0px; width: 198px; min-height: 65px;\"><p align=\"center\" style=\"margin-left:0px;text-indent:0px;margin-top:0px;margin-bottom:0px;\"><span style=\"font-size:24pt; color: rgb(0, 40, 87); font-family: &quot;PT Sans&quot;, sans-serif;\">punten</span></p></div></div>",
-	cssText:	"visibility: inherit; position: absolute; left: 857px; top: 489px; width: 198px; height: 65px; z-index: 11;",
+	cssText:	"visibility: inherit; position: absolute; left: 857px; top: 489px; width: 198px; height: 65px; z-index: 13;",
 	cssClasses:	"score",
 	htmlId:		"tobj29229",
 	bInsAnc:	0,
@@ -237,7 +246,7 @@ text29229.rcdData.att_Desktop =
 shape29324.rcdData.att_Desktop = 
 {
 	innerHtml:	"<svg viewBox=\"0 0 212 212\" preserveAspectRatio=\"none\" focusable=\"false\" style=\"pointer-events: none; left: 0px; top: 0px; width: 100%; height: 100%; position: absolute;\"><g transform=\"translate(106 106)\" style=\"\">\n	<path d=\"M 0 106 A 106 106 0 1 1 212 106 A 106 106 0 1 1 0 106 Z\" style=\"stroke: rgb(238, 238, 238); stroke-width: 0; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; fill: rgb(255, 255, 255); fill-opacity:0;filter:alpha(opacity=0); fill-rule: nonzero; opacity:1;filter:alpha(opacity=100); pointer-events: auto;\" transform=\"translate(0 0) translate(-106, -105.99999999999999) \" stroke-linecap=\"round\"></path>\n</g>\n	<g transform=\"translate(106 106)\">\n		<text font-family=\"\'Verdana\',sans serif\" font-size=\"18.6666662\" font-weight=\"bold\" style=\"stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(102,102,102); fill-rule: nonzero; opacity:1;filter:alpha(opacity=100);\">\n			<tspan x=\"0\" y=\"5.88\" fill=\"#666666\"></tspan>\n		</text>\n	</g>\n</svg>",
-	cssText:	"visibility: inherit; position: absolute; left: 850px; top: 380px; width: 212px; height: 212px; z-index: 12; cursor: pointer; overflow: visible; pointer-events: none;",
+	cssText:	"visibility: inherit; position: absolute; left: 850px; top: 380px; width: 212px; height: 212px; z-index: 14; cursor: pointer; overflow: visible; pointer-events: none;",
 	cssClasses:	"",
 	htmlId:		"tobj29324",
 	bInsAnc:	1,
@@ -273,7 +282,7 @@ og29256.rcdData.att_Desktop =
 text29196.rcdData.att_Desktop = 
 {
 	innerHtml:	"<div name=\"dCon\" style=\"position: absolute; left: 0px; top: 0px; width: 675px; min-height: 130px;\"><div name=\"dCon2\" class=\"ttxt\" style=\"left: 0px; top: 0px; width: 675px; min-height: 130px;\"><p align=\"center\" style=\"margin-left:0px;text-indent:0px;margin-top:0px;margin-bottom:0px;\"><strong><span style=\"font-size:72pt; color: rgb(0, 40, 87); font-family: &quot;PT Sans&quot;, sans-serif;\">" +  Varquiz_score.getValueForDisplay() + " </span></strong></p></div></div>",
-	cssText:	"visibility: inherit; position: absolute; left: 344px; top: 104px; width: 675px; height: 130px; z-index: 13;",
+	cssText:	"visibility: inherit; position: absolute; left: 344px; top: 104px; width: 675px; height: 130px; z-index: 15;",
 	cssClasses:	"score",
 	htmlId:		"tobj29196",
 	bInsAnc:	0,
@@ -285,7 +294,7 @@ text29196.rcdData.att_Desktop =
 text29188.rcdData.att_Desktop = 
 {
 	innerHtml:	"<div name=\"dCon\" style=\"position: absolute; left: 0px; top: 0px; width: 582px; min-height: 100px;\"><div name=\"dCon2\" class=\"ttxt\" style=\"left: 0px; top: 0px; width: 582px; min-height: 100px;\"><p align=\"center\" leglh=\"1.752\" style=\"margin-left:0px;text-indent:0px;line-height:1.752;margin-top:0px;margin-bottom:0px;\"><span style=\"font-size:18pt; font-family: &quot;Titillium Web&quot;, sans-serif; color: rgb(255, 255, 255);\">Lees hieronder wat je eindscore zegt over jouw kennis van zorgverzekeringen in Nederland.</span></p></div></div>",
-	cssText:	"visibility: inherit; position: absolute; left: 390px; top: 246px; width: 582px; height: 100px; z-index: 14;",
+	cssText:	"visibility: inherit; position: absolute; left: 390px; top: 246px; width: 582px; height: 100px; z-index: 16;",
 	cssClasses:	"body-txt",
 	htmlId:		"tobj29188",
 	bInsAnc:	0,
@@ -297,7 +306,7 @@ text29188.rcdData.att_Desktop =
 text29192.rcdData.att_Desktop = 
 {
 	innerHtml:	"<div name=\"dCon\" style=\"position: absolute; left: 0px; top: 0px; width: 582px; min-height: 50px;\"><div name=\"dCon2\" class=\"ttxt\" style=\"left: 0px; top: 0px; width: 582px; min-height: 50px;\"><p align=\"center\" leglh=\"1.752\" style=\"margin-left:0px;text-indent:0px;line-height:1.752;margin-top:0px;margin-bottom:0px;\"><span style=\"font-size:18pt; font-family: &quot;Titillium Web&quot;, sans-serif; color: rgb(255, 255, 255);\">Jouw score:</span></p></div></div>",
-	cssText:	"visibility: inherit; position: absolute; left: 390px; top: 72px; width: 582px; height: 50px; z-index: 15;",
+	cssText:	"visibility: inherit; position: absolute; left: 390px; top: 72px; width: 582px; height: 50px; z-index: 17;",
 	cssClasses:	"body-txt",
 	htmlId:		"tobj29192",
 	bInsAnc:	0,
@@ -318,7 +327,7 @@ og29263.rcdData.att_Desktop =
 shape29261.rcdData.att_Desktop = 
 {
 	innerHtml:	"<svg viewBox=\"0 0 1366 768\" preserveAspectRatio=\"none\" focusable=\"false\" style=\"pointer-events: none; left: 0px; top: 0px; width: 100%; height: 100%; position: absolute;\"><g transform=\"translate(683 384)\" style=\"\">\n	<path d=\"M 0 0 L 1366 0 L 1366 768 L 0 768 L 0 0 Z\" style=\"stroke: rgb(238, 238, 238); stroke-width: 0; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; fill: rgb(0, 0, 0); fill-rule: nonzero; opacity:0.5;filter:alpha(opacity=50); pointer-events: auto;\" transform=\"translate(0 0) translate(-683, -384) \" stroke-linecap=\"round\"></path>\n</g>\n	<g transform=\"translate(683 384)\">\n		<text font-family=\"\'Verdana\',sans serif\" font-size=\"18.6666662\" font-weight=\"bold\" style=\"stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(102,102,102); fill-rule: nonzero; opacity:0.5;filter:alpha(opacity=50);\">\n			<tspan x=\"0\" y=\"5.88\" fill=\"#666666\"></tspan>\n		</text>\n	</g>\n</svg>",
-	cssText:	"visibility: hidden; position: absolute; left: -1.13687e-13px; top: 1.7053e-13px; width: 1366px; height: 768px; z-index: 16; overflow: visible; pointer-events: none;",
+	cssText:	"visibility: hidden; position: absolute; left: -1.13687e-13px; top: 1.7053e-13px; width: 1366px; height: 768px; z-index: 18; overflow: visible; pointer-events: none;",
 	cssClasses:	"",
 	htmlId:		"tobj29261",
 	bInsAnc:	0,
@@ -330,7 +339,7 @@ shape29261.rcdData.att_Desktop =
 shape29243.rcdData.att_Desktop = 
 {
 	innerHtml:	"<svg viewBox=\"0 0 870 365\" preserveAspectRatio=\"none\" focusable=\"false\" style=\"pointer-events: none; left: 0px; top: 0px; width: 100%; height: 100%; position: absolute;\"><g transform=\"translate(435 182.5)\" style=\"\">\n	<path d=\"M 6.48 0 L 863.52 0 A 6.48 6.48 0 0 1 870 6.48 L 870 358.52 A 6.48 6.48 0 0 1 863.52 365 L 6.48 365 A 6.48 6.48 0 0 1 0 358.52 L 0 6.48 A 6.48 6.48 0 0 1 6.48 0 Z\" style=\"stroke: rgb(238, 238, 238); stroke-width: 0; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; fill: rgb(255, 255, 255); fill-rule: nonzero; opacity:1;filter:alpha(opacity=100); pointer-events: auto;\" transform=\"translate(0 0) translate(-435, -182.5) \" stroke-linecap=\"round\"></path>\n</g>\n	<g transform=\"translate(435 182.5)\">\n		<text font-family=\"\'Verdana\',sans serif\" font-size=\"18.6666662\" font-weight=\"bold\" style=\"stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(102,102,102); fill-rule: nonzero; opacity:1;filter:alpha(opacity=100);\">\n			<tspan x=\"0\" y=\"5.88\" fill=\"#666666\"></tspan>\n		</text>\n	</g>\n</svg>",
-	cssText:	"visibility: hidden; position: absolute; left: 248px; top: 253px; width: 870px; height: 365px; z-index: 17; overflow: visible; pointer-events: none;",
+	cssText:	"visibility: hidden; position: absolute; left: 248px; top: 253px; width: 870px; height: 365px; z-index: 19; overflow: visible; pointer-events: none;",
 	cssClasses:	"",
 	htmlId:		"tobj29243",
 	bInsAnc:	0,
@@ -342,7 +351,7 @@ shape29243.rcdData.att_Desktop =
 image29264.rcdData.att_Desktop = 
 {
 	innerHtml:	"<img id=\"tobj29264Img\" src=\"images/Close.png\" style=\"position: absolute; border-style: none; left: 0px; top: 0px; width: 29px; height: 29px;\">",
-	cssText:	"visibility: hidden; position: absolute; left: 1055px; top: 285px; width: 29px; height: 29px; z-index: 18;",
+	cssText:	"visibility: hidden; position: absolute; left: 1055px; top: 285px; width: 29px; height: 29px; z-index: 20;",
 	cssClasses:	"",
 	htmlId:		"tobj29264",
 	bInsAnc:	0,
@@ -354,7 +363,7 @@ image29264.rcdData.att_Desktop =
 shape29266.rcdData.att_Desktop = 
 {
 	innerHtml:	"<svg viewBox=\"0 0 58 56\" preserveAspectRatio=\"none\" focusable=\"false\" style=\"pointer-events: none; left: 0px; top: 0px; width: 100%; height: 100%; position: absolute;\"><g transform=\"translate(29 28)\" style=\"\">\n	<path d=\"M 0 0 L 58 0 L 58 56 L 0 56 L 0 0 Z\" style=\"stroke: rgb(238, 238, 238); stroke-width: 0; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; fill: rgb(255, 255, 255); fill-opacity:0;filter:alpha(opacity=0); fill-rule: nonzero; opacity:1;filter:alpha(opacity=100); pointer-events: auto;\" transform=\"translate(0 0) translate(-29, -28) \" stroke-linecap=\"round\"></path>\n</g>\n	<g transform=\"translate(29 28)\">\n		<text font-family=\"\'Verdana\',sans serif\" font-size=\"18.6666662\" font-weight=\"bold\" style=\"stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(102,102,102); fill-rule: nonzero; opacity:1;filter:alpha(opacity=100);\">\n			<tspan x=\"0\" y=\"5.88\" fill=\"#666666\"></tspan>\n		</text>\n	</g>\n</svg>",
-	cssText:	"visibility: hidden; position: absolute; left: 1041px; top: 271px; width: 58px; height: 56px; z-index: 19; cursor: pointer; overflow: visible; pointer-events: none;",
+	cssText:	"visibility: hidden; position: absolute; left: 1041px; top: 271px; width: 58px; height: 56px; z-index: 21; cursor: pointer; overflow: visible; pointer-events: none;",
 	cssClasses:	"",
 	htmlId:		"tobj29266",
 	bInsAnc:	1,
@@ -381,7 +390,7 @@ shape29266.rcdData.att_Desktop =
 text29257.rcdData.att_Desktop = 
 {
 	innerHtml:	"<div name=\"dCon\" style=\"position: absolute; left: 0px; top: 0px; width: 582px; min-height: 126px;\"><div name=\"dCon2\" class=\"ttxt\" style=\"left: 0px; top: 0px; width: 582px; min-height: 126px;\"><p align=\"center\" leglh=\"1.752\" style=\"margin-left:0px;text-indent:0px;line-height:1.752;margin-top:0px;margin-bottom:0px;\"><span style=\"color: rgb(0, 40, 87); font-family: &quot;Titillium Web&quot;, sans-serif; font-size:18pt;\">Helaas geen topscore voor jou! Maar maak je niet druk, door je werk als klantadviseur krijg je snel meer gevoel bij de zorg in Nederland.</span></p></div></div>",
-	cssText:	"visibility: hidden; position: absolute; left: 391px; top: 411px; width: 582px; height: 126px; z-index: 20;",
+	cssText:	"visibility: hidden; position: absolute; left: 391px; top: 411px; width: 582px; height: 126px; z-index: 22;",
 	cssClasses:	"body-txt",
 	htmlId:		"tobj29257",
 	bInsAnc:	0,
@@ -393,7 +402,7 @@ text29257.rcdData.att_Desktop =
 image29244.rcdData.att_Desktop = 
 {
 	innerHtml:	"<img id=\"tobj29244Img\" src=\"images/Resultaten_bg.png\" style=\"position: absolute; border-style: none; left: 0px; top: 0px; width: 280px; height: 305px;\">",
-	cssText:	"visibility: hidden; position: absolute; left: 543px; top: 101px; width: 280px; height: 305px; z-index: 21;",
+	cssText:	"visibility: hidden; position: absolute; left: 543px; top: 101px; width: 280px; height: 305px; z-index: 23;",
 	cssClasses:	"",
 	htmlId:		"tobj29244",
 	bInsAnc:	0,
@@ -405,7 +414,7 @@ image29244.rcdData.att_Desktop =
 text29248.rcdData.att_Desktop = 
 {
 	innerHtml:	"<div name=\"dCon\" style=\"position: absolute; left: 0px; top: 0px; width: 198px; min-height: 65px;\"><div name=\"dCon2\" class=\"ttxt\" style=\"left: 0px; top: 0px; width: 198px; min-height: 65px;\"><p align=\"center\" style=\"margin-left:0px;text-indent:0px;margin-top:0px;margin-bottom:0px;\"><strong><span style=\"font-size:30pt; color: rgb(0, 40, 87); font-family: &quot;PT Sans&quot;, sans-serif;\">0-99</span></strong></p></div></div>",
-	cssText:	"visibility: hidden; position: absolute; left: 583px; top: 208px; width: 198px; height: 65px; z-index: 22;",
+	cssText:	"visibility: hidden; position: absolute; left: 583px; top: 208px; width: 198px; height: 65px; z-index: 24;",
 	cssClasses:	"score",
 	htmlId:		"tobj29248",
 	bInsAnc:	0,
@@ -417,7 +426,7 @@ text29248.rcdData.att_Desktop =
 text29252.rcdData.att_Desktop = 
 {
 	innerHtml:	"<div name=\"dCon\" style=\"position: absolute; left: 0px; top: 0px; width: 198px; min-height: 65px;\"><div name=\"dCon2\" class=\"ttxt\" style=\"left: 0px; top: 0px; width: 198px; min-height: 65px;\"><p align=\"center\" style=\"margin-left:0px;text-indent:0px;margin-top:0px;margin-bottom:0px;\"><span style=\"font-size:24pt; color: rgb(0, 40, 87); font-family: &quot;PT Sans&quot;, sans-serif;\">punten</span></p></div></div>",
-	cssText:	"visibility: hidden; position: absolute; left: 583px; top: 252px; width: 198px; height: 65px; z-index: 23;",
+	cssText:	"visibility: hidden; position: absolute; left: 583px; top: 252px; width: 198px; height: 65px; z-index: 25;",
 	cssClasses:	"score",
 	htmlId:		"tobj29252",
 	bInsAnc:	0,
@@ -438,7 +447,7 @@ og29278.rcdData.att_Desktop =
 shape29279.rcdData.att_Desktop = 
 {
 	innerHtml:	"<svg viewBox=\"0 0 1366 768\" preserveAspectRatio=\"none\" focusable=\"false\" style=\"pointer-events: none; left: 0px; top: 0px; width: 100%; height: 100%; position: absolute;\"><g transform=\"translate(683 384)\" style=\"\">\n	<path d=\"M 0 0 L 1366 0 L 1366 768 L 0 768 L 0 0 Z\" style=\"stroke: rgb(238, 238, 238); stroke-width: 0; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; fill: rgb(0, 0, 0); fill-rule: nonzero; opacity:0.5;filter:alpha(opacity=50); pointer-events: auto;\" transform=\"translate(0 0) translate(-683, -384) \" stroke-linecap=\"round\"></path>\n</g>\n	<g transform=\"translate(683 384)\">\n		<text font-family=\"\'Verdana\',sans serif\" font-size=\"18.6666662\" font-weight=\"bold\" style=\"stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(102,102,102); fill-rule: nonzero; opacity:0.5;filter:alpha(opacity=50);\">\n			<tspan x=\"0\" y=\"5.88\" fill=\"#666666\"></tspan>\n		</text>\n	</g>\n</svg>",
-	cssText:	"visibility: hidden; position: absolute; left: -1.13687e-13px; top: 1.7053e-13px; width: 1366px; height: 768px; z-index: 24; overflow: visible; pointer-events: none;",
+	cssText:	"visibility: hidden; position: absolute; left: -1.13687e-13px; top: 1.7053e-13px; width: 1366px; height: 768px; z-index: 26; overflow: visible; pointer-events: none;",
 	cssClasses:	"",
 	htmlId:		"tobj29279",
 	bInsAnc:	0,
@@ -450,7 +459,7 @@ shape29279.rcdData.att_Desktop =
 shape29280.rcdData.att_Desktop = 
 {
 	innerHtml:	"<svg viewBox=\"0 0 870 365\" preserveAspectRatio=\"none\" focusable=\"false\" style=\"pointer-events: none; left: 0px; top: 0px; width: 100%; height: 100%; position: absolute;\"><g transform=\"translate(435 182.5)\" style=\"\">\n	<path d=\"M 6.48 0 L 863.52 0 A 6.48 6.48 0 0 1 870 6.48 L 870 358.52 A 6.48 6.48 0 0 1 863.52 365 L 6.48 365 A 6.48 6.48 0 0 1 0 358.52 L 0 6.48 A 6.48 6.48 0 0 1 6.48 0 Z\" style=\"stroke: rgb(238, 238, 238); stroke-width: 0; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; fill: rgb(255, 255, 255); fill-rule: nonzero; opacity:1;filter:alpha(opacity=100); pointer-events: auto;\" transform=\"translate(0 0) translate(-435, -182.5) \" stroke-linecap=\"round\"></path>\n</g>\n	<g transform=\"translate(435 182.5)\">\n		<text font-family=\"\'Verdana\',sans serif\" font-size=\"18.6666662\" font-weight=\"bold\" style=\"stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(102,102,102); fill-rule: nonzero; opacity:1;filter:alpha(opacity=100);\">\n			<tspan x=\"0\" y=\"5.88\" fill=\"#666666\"></tspan>\n		</text>\n	</g>\n</svg>",
-	cssText:	"visibility: hidden; position: absolute; left: 248px; top: 253px; width: 870px; height: 365px; z-index: 25; overflow: visible; pointer-events: none;",
+	cssText:	"visibility: hidden; position: absolute; left: 248px; top: 253px; width: 870px; height: 365px; z-index: 27; overflow: visible; pointer-events: none;",
 	cssClasses:	"",
 	htmlId:		"tobj29280",
 	bInsAnc:	0,
@@ -462,7 +471,7 @@ shape29280.rcdData.att_Desktop =
 image29281.rcdData.att_Desktop = 
 {
 	innerHtml:	"<img id=\"tobj29281Img\" src=\"images/Close.png\" style=\"position: absolute; border-style: none; left: 0px; top: 0px; width: 29px; height: 29px;\">",
-	cssText:	"visibility: hidden; position: absolute; left: 1055px; top: 285px; width: 29px; height: 29px; z-index: 26;",
+	cssText:	"visibility: hidden; position: absolute; left: 1055px; top: 285px; width: 29px; height: 29px; z-index: 28;",
 	cssClasses:	"",
 	htmlId:		"tobj29281",
 	bInsAnc:	0,
@@ -474,7 +483,7 @@ image29281.rcdData.att_Desktop =
 shape29282.rcdData.att_Desktop = 
 {
 	innerHtml:	"<svg viewBox=\"0 0 58 56\" preserveAspectRatio=\"none\" focusable=\"false\" style=\"pointer-events: none; left: 0px; top: 0px; width: 100%; height: 100%; position: absolute;\"><g transform=\"translate(29 28)\" style=\"\">\n	<path d=\"M 0 0 L 58 0 L 58 56 L 0 56 L 0 0 Z\" style=\"stroke: rgb(238, 238, 238); stroke-width: 0; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; fill: rgb(255, 255, 255); fill-opacity:0;filter:alpha(opacity=0); fill-rule: nonzero; opacity:1;filter:alpha(opacity=100); pointer-events: auto;\" transform=\"translate(0 0) translate(-29, -28) \" stroke-linecap=\"round\"></path>\n</g>\n	<g transform=\"translate(29 28)\">\n		<text font-family=\"\'Verdana\',sans serif\" font-size=\"18.6666662\" font-weight=\"bold\" style=\"stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(102,102,102); fill-rule: nonzero; opacity:1;filter:alpha(opacity=100);\">\n			<tspan x=\"0\" y=\"5.88\" fill=\"#666666\"></tspan>\n		</text>\n	</g>\n</svg>",
-	cssText:	"visibility: hidden; position: absolute; left: 1041px; top: 271px; width: 58px; height: 56px; z-index: 27; cursor: pointer; overflow: visible; pointer-events: none;",
+	cssText:	"visibility: hidden; position: absolute; left: 1041px; top: 271px; width: 58px; height: 56px; z-index: 29; cursor: pointer; overflow: visible; pointer-events: none;",
 	cssClasses:	"",
 	htmlId:		"tobj29282",
 	bInsAnc:	1,
@@ -501,7 +510,7 @@ shape29282.rcdData.att_Desktop =
 text29289.rcdData.att_Desktop = 
 {
 	innerHtml:	"<div name=\"dCon\" style=\"position: absolute; left: 0px; top: 0px; width: 582px; min-height: 126px;\"><div name=\"dCon2\" class=\"ttxt\" style=\"left: 0px; top: 0px; width: 582px; min-height: 126px;\"><p align=\"center\" leglh=\"1.752\" style=\"margin-left:0px;text-indent:0px;line-height:1.752;margin-top:0px;margin-bottom:0px;\"><span style=\"color: rgb(0, 40, 87); font-family: &quot;Titillium Web&quot;, sans-serif; font-size:18pt;\">Goed bezig! Je kunt al aardig inschatten hoe het staat met zorgverzekeringen in Nederland. Dat helpt je om te snappen waar onze klanten Zilveren Kruis over bellen.</span></p></div></div>",
-	cssText:	"visibility: hidden; position: absolute; left: 391px; top: 411px; width: 582px; height: 126px; z-index: 28;",
+	cssText:	"visibility: hidden; position: absolute; left: 391px; top: 411px; width: 582px; height: 126px; z-index: 30;",
 	cssClasses:	"body-txt",
 	htmlId:		"tobj29289",
 	bInsAnc:	0,
@@ -513,7 +522,7 @@ text29289.rcdData.att_Desktop =
 image29290.rcdData.att_Desktop = 
 {
 	innerHtml:	"<img id=\"tobj29290Img\" src=\"images/Resultaten_bg.png\" style=\"position: absolute; border-style: none; left: 0px; top: 0px; width: 280px; height: 305px;\">",
-	cssText:	"visibility: hidden; position: absolute; left: 543px; top: 101px; width: 280px; height: 305px; z-index: 29;",
+	cssText:	"visibility: hidden; position: absolute; left: 543px; top: 101px; width: 280px; height: 305px; z-index: 31;",
 	cssClasses:	"",
 	htmlId:		"tobj29290",
 	bInsAnc:	0,
@@ -525,7 +534,7 @@ image29290.rcdData.att_Desktop =
 text29291.rcdData.att_Desktop = 
 {
 	innerHtml:	"<div name=\"dCon\" style=\"position: absolute; left: 0px; top: 0px; width: 198px; min-height: 65px;\"><div name=\"dCon2\" class=\"ttxt\" style=\"left: 0px; top: 0px; width: 198px; min-height: 65px;\"><p align=\"center\" style=\"margin-left:0px;text-indent:0px;margin-top:0px;margin-bottom:0px;\"><strong><span style=\"font-size:30pt; color: rgb(0, 40, 87); font-family: &quot;PT Sans&quot;, sans-serif;\">100-199</span></strong></p></div></div>",
-	cssText:	"visibility: hidden; position: absolute; left: 583px; top: 208px; width: 198px; height: 65px; z-index: 30;",
+	cssText:	"visibility: hidden; position: absolute; left: 583px; top: 208px; width: 198px; height: 65px; z-index: 32;",
 	cssClasses:	"score",
 	htmlId:		"tobj29291",
 	bInsAnc:	0,
@@ -537,7 +546,7 @@ text29291.rcdData.att_Desktop =
 text29292.rcdData.att_Desktop = 
 {
 	innerHtml:	"<div name=\"dCon\" style=\"position: absolute; left: 0px; top: 0px; width: 198px; min-height: 65px;\"><div name=\"dCon2\" class=\"ttxt\" style=\"left: 0px; top: 0px; width: 198px; min-height: 65px;\"><p align=\"center\" style=\"margin-left:0px;text-indent:0px;margin-top:0px;margin-bottom:0px;\"><span style=\"font-size:24pt; color: rgb(0, 40, 87); font-family: &quot;PT Sans&quot;, sans-serif;\">punten</span></p></div></div>",
-	cssText:	"visibility: hidden; position: absolute; left: 583px; top: 252px; width: 198px; height: 65px; z-index: 31;",
+	cssText:	"visibility: hidden; position: absolute; left: 583px; top: 252px; width: 198px; height: 65px; z-index: 33;",
 	cssClasses:	"score",
 	htmlId:		"tobj29292",
 	bInsAnc:	0,
@@ -558,7 +567,7 @@ og29296.rcdData.att_Desktop =
 shape29297.rcdData.att_Desktop = 
 {
 	innerHtml:	"<svg viewBox=\"0 0 1366 768\" preserveAspectRatio=\"none\" focusable=\"false\" style=\"pointer-events: none; left: 0px; top: 0px; width: 100%; height: 100%; position: absolute;\"><g transform=\"translate(683 384)\" style=\"\">\n	<path d=\"M 0 0 L 1366 0 L 1366 768 L 0 768 L 0 0 Z\" style=\"stroke: rgb(238, 238, 238); stroke-width: 0; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; fill: rgb(0, 0, 0); fill-rule: nonzero; opacity:0.5;filter:alpha(opacity=50); pointer-events: auto;\" transform=\"translate(0 0) translate(-683, -384) \" stroke-linecap=\"round\"></path>\n</g>\n	<g transform=\"translate(683 384)\">\n		<text font-family=\"\'Verdana\',sans serif\" font-size=\"18.6666662\" font-weight=\"bold\" style=\"stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(102,102,102); fill-rule: nonzero; opacity:0.5;filter:alpha(opacity=50);\">\n			<tspan x=\"0\" y=\"5.88\" fill=\"#666666\"></tspan>\n		</text>\n	</g>\n</svg>",
-	cssText:	"visibility: hidden; position: absolute; left: -1.13687e-13px; top: 1.7053e-13px; width: 1366px; height: 768px; z-index: 32; overflow: visible; pointer-events: none;",
+	cssText:	"visibility: hidden; position: absolute; left: -1.13687e-13px; top: 1.7053e-13px; width: 1366px; height: 768px; z-index: 34; overflow: visible; pointer-events: none;",
 	cssClasses:	"",
 	htmlId:		"tobj29297",
 	bInsAnc:	0,
@@ -570,7 +579,7 @@ shape29297.rcdData.att_Desktop =
 shape29298.rcdData.att_Desktop = 
 {
 	innerHtml:	"<svg viewBox=\"0 0 870 365\" preserveAspectRatio=\"none\" focusable=\"false\" style=\"pointer-events: none; left: 0px; top: 0px; width: 100%; height: 100%; position: absolute;\"><g transform=\"translate(435 182.5)\" style=\"\">\n	<path d=\"M 6.48 0 L 863.52 0 A 6.48 6.48 0 0 1 870 6.48 L 870 358.52 A 6.48 6.48 0 0 1 863.52 365 L 6.48 365 A 6.48 6.48 0 0 1 0 358.52 L 0 6.48 A 6.48 6.48 0 0 1 6.48 0 Z\" style=\"stroke: rgb(238, 238, 238); stroke-width: 0; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; fill: rgb(255, 255, 255); fill-rule: nonzero; opacity:1;filter:alpha(opacity=100); pointer-events: auto;\" transform=\"translate(0 0) translate(-435, -182.5) \" stroke-linecap=\"round\"></path>\n</g>\n	<g transform=\"translate(435 182.5)\">\n		<text font-family=\"\'Verdana\',sans serif\" font-size=\"18.6666662\" font-weight=\"bold\" style=\"stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(102,102,102); fill-rule: nonzero; opacity:1;filter:alpha(opacity=100);\">\n			<tspan x=\"0\" y=\"5.88\" fill=\"#666666\"></tspan>\n		</text>\n	</g>\n</svg>",
-	cssText:	"visibility: hidden; position: absolute; left: 248px; top: 253px; width: 870px; height: 365px; z-index: 33; overflow: visible; pointer-events: none;",
+	cssText:	"visibility: hidden; position: absolute; left: 248px; top: 253px; width: 870px; height: 365px; z-index: 35; overflow: visible; pointer-events: none;",
 	cssClasses:	"",
 	htmlId:		"tobj29298",
 	bInsAnc:	0,
@@ -582,7 +591,7 @@ shape29298.rcdData.att_Desktop =
 image29299.rcdData.att_Desktop = 
 {
 	innerHtml:	"<img id=\"tobj29299Img\" src=\"images/Close.png\" style=\"position: absolute; border-style: none; left: 0px; top: 0px; width: 29px; height: 29px;\">",
-	cssText:	"visibility: hidden; position: absolute; left: 1055px; top: 285px; width: 29px; height: 29px; z-index: 34;",
+	cssText:	"visibility: hidden; position: absolute; left: 1055px; top: 285px; width: 29px; height: 29px; z-index: 36;",
 	cssClasses:	"",
 	htmlId:		"tobj29299",
 	bInsAnc:	0,
@@ -594,7 +603,7 @@ image29299.rcdData.att_Desktop =
 shape29300.rcdData.att_Desktop = 
 {
 	innerHtml:	"<svg viewBox=\"0 0 58 56\" preserveAspectRatio=\"none\" focusable=\"false\" style=\"pointer-events: none; left: 0px; top: 0px; width: 100%; height: 100%; position: absolute;\"><g transform=\"translate(29 28)\" style=\"\">\n	<path d=\"M 0 0 L 58 0 L 58 56 L 0 56 L 0 0 Z\" style=\"stroke: rgb(238, 238, 238); stroke-width: 0; stroke-dasharray: none; stroke-linecap: round; stroke-linejoin: round; stroke-miterlimit: 10; fill: rgb(255, 255, 255); fill-opacity:0;filter:alpha(opacity=0); fill-rule: nonzero; opacity:1;filter:alpha(opacity=100); pointer-events: auto;\" transform=\"translate(0 0) translate(-29, -28) \" stroke-linecap=\"round\"></path>\n</g>\n	<g transform=\"translate(29 28)\">\n		<text font-family=\"\'Verdana\',sans serif\" font-size=\"18.6666662\" font-weight=\"bold\" style=\"stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-linejoin: miter; stroke-miterlimit: 10; fill: rgb(102,102,102); fill-rule: nonzero; opacity:1;filter:alpha(opacity=100);\">\n			<tspan x=\"0\" y=\"5.88\" fill=\"#666666\"></tspan>\n		</text>\n	</g>\n</svg>",
-	cssText:	"visibility: hidden; position: absolute; left: 1041px; top: 271px; width: 58px; height: 56px; z-index: 35; cursor: pointer; overflow: visible; pointer-events: none;",
+	cssText:	"visibility: hidden; position: absolute; left: 1041px; top: 271px; width: 58px; height: 56px; z-index: 37; cursor: pointer; overflow: visible; pointer-events: none;",
 	cssClasses:	"",
 	htmlId:		"tobj29300",
 	bInsAnc:	1,
@@ -621,7 +630,7 @@ shape29300.rcdData.att_Desktop =
 text29307.rcdData.att_Desktop = 
 {
 	innerHtml:	"<div name=\"dCon\" style=\"position: absolute; left: 0px; top: 0px; width: 582px; min-height: 126px;\"><div name=\"dCon2\" class=\"ttxt\" style=\"left: 0px; top: 0px; width: 582px; min-height: 126px;\"><p align=\"center\" leglh=\"1.752\" style=\"margin-left:0px;text-indent:0px;line-height:1.752;margin-top:0px;margin-bottom:0px;\"><span style=\"color: rgb(0, 40, 87); font-family: &quot;Titillium Web&quot;, sans-serif; font-size:18pt;\">Scherp staaltje werk! Met jouw kennis van zorgverzekeringen in Nederland zit het wel snor. Dit gaat zeker in je voordeel werken als klantadviseur.</span></p></div></div>",
-	cssText:	"visibility: hidden; position: absolute; left: 391px; top: 411px; width: 582px; height: 126px; z-index: 36;",
+	cssText:	"visibility: hidden; position: absolute; left: 391px; top: 411px; width: 582px; height: 126px; z-index: 38;",
 	cssClasses:	"body-txt",
 	htmlId:		"tobj29307",
 	bInsAnc:	0,
@@ -633,7 +642,7 @@ text29307.rcdData.att_Desktop =
 image29308.rcdData.att_Desktop = 
 {
 	innerHtml:	"<img id=\"tobj29308Img\" src=\"images/Resultaten_bg.png\" style=\"position: absolute; border-style: none; left: 0px; top: 0px; width: 280px; height: 305px;\">",
-	cssText:	"visibility: hidden; position: absolute; left: 543px; top: 101px; width: 280px; height: 305px; z-index: 37;",
+	cssText:	"visibility: hidden; position: absolute; left: 543px; top: 101px; width: 280px; height: 305px; z-index: 39;",
 	cssClasses:	"",
 	htmlId:		"tobj29308",
 	bInsAnc:	0,
@@ -645,7 +654,7 @@ image29308.rcdData.att_Desktop =
 text29309.rcdData.att_Desktop = 
 {
 	innerHtml:	"<div name=\"dCon\" style=\"position: absolute; left: 0px; top: 0px; width: 198px; min-height: 65px;\"><div name=\"dCon2\" class=\"ttxt\" style=\"left: 0px; top: 0px; width: 198px; min-height: 65px;\"><p align=\"center\" style=\"margin-left:0px;text-indent:0px;margin-top:0px;margin-bottom:0px;\"><strong><span style=\"font-size:30pt; color: rgb(0, 40, 87); font-family: &quot;PT Sans&quot;, sans-serif;\">200+</span></strong></p></div></div>",
-	cssText:	"visibility: hidden; position: absolute; left: 583px; top: 208px; width: 198px; height: 65px; z-index: 38;",
+	cssText:	"visibility: hidden; position: absolute; left: 583px; top: 208px; width: 198px; height: 65px; z-index: 40;",
 	cssClasses:	"score",
 	htmlId:		"tobj29309",
 	bInsAnc:	0,
@@ -657,7 +666,7 @@ text29309.rcdData.att_Desktop =
 text29310.rcdData.att_Desktop = 
 {
 	innerHtml:	"<div name=\"dCon\" style=\"position: absolute; left: 0px; top: 0px; width: 198px; min-height: 65px;\"><div name=\"dCon2\" class=\"ttxt\" style=\"left: 0px; top: 0px; width: 198px; min-height: 65px;\"><p align=\"center\" style=\"margin-left:0px;text-indent:0px;margin-top:0px;margin-bottom:0px;\"><span style=\"font-size:24pt; color: rgb(0, 40, 87); font-family: &quot;PT Sans&quot;, sans-serif;\">punten</span></p></div></div>",
-	cssText:	"visibility: hidden; position: absolute; left: 583px; top: 252px; width: 198px; height: 65px; z-index: 39;",
+	cssText:	"visibility: hidden; position: absolute; left: 583px; top: 252px; width: 198px; height: 65px; z-index: 41;",
 	cssClasses:	"score",
 	htmlId:		"tobj29310",
 	bInsAnc:	0,

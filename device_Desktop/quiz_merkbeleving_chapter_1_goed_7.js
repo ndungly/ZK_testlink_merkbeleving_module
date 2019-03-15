@@ -16,10 +16,19 @@ function defineFuncs_Desktop() {
 	pageRClick = n;
 	pageKey = n;
 }
+og29538.rcdData.att_Desktop = 
+{
+	innerHtml:	"",
+	cssText:	"",
+	cssClasses:	"",
+	htmlId:		"og29538",
+	bInsAnc:	undefined,
+	objData:	{"a":[0,32,0,[]],"bReadLast":false}
+};
 image29501.rcdData.att_Desktop = 
 {
 	innerHtml:	"<img id=\"tobj29501Img\" src=\"images/Achtergrond%20quiz_leeg.jpg\" style=\"position: absolute; border-style: none; left: 0px; top: 0px; width: 1366px; height: 768px;\">",
-	cssText:	"visibility: inherit; position: absolute; left: 0px; top: 0px; width: 1366px; height: 768px; z-index: 0;",
+	cssText:	"visibility: inherit; position: absolute; left: 0px; top: 0px; width: 1366px; height: 768px; z-index: 2;",
 	cssClasses:	"",
 	htmlId:		"tobj29501",
 	bInsAnc:	0,
@@ -31,7 +40,7 @@ image29501.rcdData.att_Desktop =
 image29500.rcdData.att_Desktop = 
 {
 	innerHtml:	"<img id=\"tobj29500Img\" src=\"images/Score_bg.png\" style=\"position: absolute; border-style: none; left: 0px; top: 0px; width: 378px; height: 165px;\">",
-	cssText:	"visibility: inherit; position: absolute; left: 494px; top: 0px; width: 378px; height: 165px; z-index: 1;",
+	cssText:	"visibility: inherit; position: absolute; left: 494px; top: 0px; width: 378px; height: 165px; z-index: 3;",
 	cssClasses:	"",
 	htmlId:		"tobj29500",
 	bInsAnc:	0,
@@ -43,7 +52,7 @@ image29500.rcdData.att_Desktop =
 text29499.rcdData.att_Desktop = 
 {
 	innerHtml:	"<div name=\"dCon\" style=\"position: absolute; left: 0px; top: 0px; width: 200px; min-height: 69px;\"><div name=\"dCon2\" class=\"ttxt\" style=\"left: 0px; top: 0px; width: 200px; min-height: 69px;\"><p style=\"margin-left:0px;text-indent:0px;margin-top:0px;margin-bottom:0px;\" align=\"center\">\n<span style=\" font-size:18pt; font-family:\'PT Sans\', sans-serif; color:#002857;\">Jouw score:\n</span></p>\n</div></div>",
-	cssText:	"visibility: inherit; position: absolute; left: 583px; top: 17px; width: 200px; height: 69px; z-index: 2;",
+	cssText:	"visibility: inherit; position: absolute; left: 583px; top: 17px; width: 200px; height: 69px; z-index: 4;",
 	cssClasses:	"jouw-score",
 	htmlId:		"tobj29499",
 	bInsAnc:	0,
@@ -55,7 +64,7 @@ text29499.rcdData.att_Desktop =
 text29498.rcdData.att_Desktop = 
 {
 	innerHtml:	"<div name=\"dCon\" style=\"position: absolute; left: 0px; top: 0px; width: 478px; min-height: 72px;\"><div name=\"dCon2\" class=\"ttxt\" style=\"left: 0px; top: 0px; width: 478px; min-height: 72px;\"><p style=\"margin-left:0px;text-indent:0px;margin-top:0px;margin-bottom:0px;\" align=\"center\">\n<span style=\" font-size:40pt; font-family:\'PT Sans\', sans-serif; color:#002857; \"><strong>" +  Varquiz_score.getValueForDisplay() + "\n</strong></span></p>\n</div></div>",
-	cssText:	"visibility: inherit; position: absolute; left: 444px; top: 57px; width: 478px; height: 72px; z-index: 3;",
+	cssText:	"visibility: inherit; position: absolute; left: 444px; top: 57px; width: 478px; height: 72px; z-index: 5;",
 	cssClasses:	"score",
 	htmlId:		"tobj29498",
 	bInsAnc:	0,
@@ -67,7 +76,7 @@ text29498.rcdData.att_Desktop =
 image29497.rcdData.att_Desktop = 
 {
 	innerHtml:	"<img id=\"tobj29497Img\" src=\"images/Check_goed.png\" style=\"position: absolute; border-style: none; left: 0px; top: 0px; width: 355px; height: 404px;\">",
-	cssText:	"visibility: inherit; position: absolute; left: 506px; top: 181px; width: 355px; height: 404px; z-index: 4;",
+	cssText:	"visibility: inherit; position: absolute; left: 506px; top: 181px; width: 355px; height: 404px; z-index: 6;",
 	cssClasses:	"",
 	htmlId:		"tobj29497",
 	bInsAnc:	0,
@@ -79,7 +88,7 @@ image29497.rcdData.att_Desktop =
 image29496.rcdData.att_Desktop = 
 {
 	innerHtml:	"<img id=\"tobj29496Img\" src=\"images/Check_punten_bg.png\" style=\"position: absolute; border-style: none; left: 0px; top: 0px; width: 119px; height: 135px;\">",
-	cssText:	"visibility: inherit; position: absolute; left: 625px; top: 614px; width: 119px; height: 135px; z-index: 5;",
+	cssText:	"visibility: inherit; position: absolute; left: 625px; top: 614px; width: 119px; height: 135px; z-index: 7;",
 	cssClasses:	"",
 	htmlId:		"tobj29496",
 	bInsAnc:	0,
@@ -91,7 +100,7 @@ image29496.rcdData.att_Desktop =
 text29495.rcdData.att_Desktop = 
 {
 	innerHtml:	"<div name=\"dCon\" style=\"position: absolute; left: 0px; top: 0px; width: 281px; min-height: 96px;\"><div name=\"dCon2\" class=\"ttxt\" style=\"left: 0px; top: 0px; width: 281px; min-height: 96px;\"><p style=\"margin-left:0px;text-indent:0px;margin-top:0px;margin-bottom:0px;\" align=\"center\">\n<span style=\" font-size:36pt; font-family:\'PT Sans\', sans-serif; color:#002857; \"><strong>+" +  Varinzet.getValueForDisplay() + "\n</strong></span></p>\n</div></div>",
-	cssText:	"visibility: inherit; position: absolute; left: 538px; top: 646px; width: 281px; height: 96px; z-index: 6;",
+	cssText:	"visibility: inherit; position: absolute; left: 538px; top: 646px; width: 281px; height: 96px; z-index: 8;",
 	cssClasses:	"score",
 	htmlId:		"tobj29495",
 	bInsAnc:	0,
@@ -103,7 +112,7 @@ text29495.rcdData.att_Desktop =
 text29494.rcdData.att_Desktop = 
 {
 	innerHtml:	"<div name=\"dCon\" style=\"position: absolute; left: 0px; top: 0px; width: 97px; min-height: 26px;\"><div name=\"dCon2\" class=\"ttxt\" style=\"left: 0px; top: 0px; width: 97px; min-height: 26px;\"><p style=\"margin-left:0px;text-indent:0px;margin-top:0px;margin-bottom:0px;\" align=\"center\">\n<span style=\" font-size:16pt; font-family:\'PT Sans\', sans-serif; color:#002857;\">PUNTEN\n</span></p>\n</div></div>",
-	cssText:	"visibility: inherit; position: absolute; left: 635px; top: 695px; width: 97px; height: 26px; z-index: 7;",
+	cssText:	"visibility: inherit; position: absolute; left: 635px; top: 695px; width: 97px; height: 26px; z-index: 9;",
 	cssClasses:	"score",
 	htmlId:		"tobj29494",
 	bInsAnc:	0,
